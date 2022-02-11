@@ -92,6 +92,14 @@ data is easy to interpret and available for further reporting purposes.
 I can identify the location of the property.
 I can see the status of the property (whether the property belongs to a block/estate etc)
 
+** As a placement officer procuring TA ** 
+- I can view a single page of properties that are available to place residents so that I can compare available properties quickly.
+- I can search and filter for properties by certain characteristics so that I can find a placement for a person.
+- I understand key information about the property so that I can decide if it is suitable for the person I am placing.
+- I can add new properties that are currently not on the list so that I can license them for use as temporary accommodation.
+- I can see and add to the history of a property so that I can understand how it has been used in the past to support my placement decision and record my decision. 
+
+
 # Workshop outcome
 ## Workshop 1
 
