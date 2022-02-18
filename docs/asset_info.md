@@ -108,6 +108,14 @@ The workshop was based on identifying different sources that might contribute to
 
 ** https://ideaflip.com/edit/d7zfwtixmyhv/zGJtvUcZSq52 **
 
+## Workshop 2
+
+** Summary **
+A set of workshops based on understanding the requirements for the Temporary Accomodation (TA), this was broken down into several epics including browsing a list of TA properties to make a decision to house people and adding properties. We identified what fields are required and would need to be added to the current Asset API.
+
+** https://miro.com/app/board/o9J_lgijfvo=/ **
+
+
 # Questions to ask
 
 ** Do we follow HACT standards for Asset Information API. If not, is there any flexibility? **
