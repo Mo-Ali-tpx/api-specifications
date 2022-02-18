@@ -111,7 +111,7 @@ The workshop was based on identifying different sources that might contribute to
 ## Workshop 2
 
 ** Summary **
-A set of workshops based on understanding the requirements for the Temporary Accomodation (TA), this was broken down into several epics including browsing a list of TA properties to make a decision to house people and adding properties. We identified what fields are required and would need to be added to the current Asset API.
+A set of initial workshops based on understanding the requirements for Temporary Accomodation (TA) teams, this was broken down into several epics including browsing a list of TA properties to make a decision to house people and adding properties. We identified what fields are required and would need to be added to the current Asset API.
 
 ** https://miro.com/app/board/o9J_lgijfvo=/ **
 
